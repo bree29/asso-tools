@@ -1,4 +1,7 @@
 # Prérequis
+### 0. Installer les dépendances
+`sudo apt install inkscape`
+
 ### 1. Rendre le script exécutable
 `sudo chmod +x mkbadges.sh` (ou clic droit, propriété, permissions, cocher la case exécutable)
 
