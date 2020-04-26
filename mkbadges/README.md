@@ -1,5 +1,5 @@
 # Prérequis
-### 1. Télécharger le script est installer les dépendances dans un dossier dédié.
+### 1. Télécharger le script dans un dossier dédié et installer les dépendances.
 ```
 mkdir -p mkbadges && cd mkbadges
 wget https://raw.githubusercontent.com/bree29/asso-tools/master/mkbadges/mkbadges.sh
